@@ -30,6 +30,7 @@ public class ImportarDados {
                 elements.put("descricao", info[4]);
                 elements.put("situacao", info[5]);
                 lista.add(elements);
+
             }
 
             int count =0;
